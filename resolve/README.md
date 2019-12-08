@@ -3,4 +3,5 @@
 
 # Решение
 Успел сделать два прототипа (но т.к. версия бесплатная немного пришлось урезать элементы, чтобы влезть в лимит)
-Прототип 1 - https://ninjamock.com/Designer/Workplace
+Прототип 1 - https://ninjamock.com/s/JJT22Fx
+Прототип 2 - https://ninjamock.com/s/72B22Fx
